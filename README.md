@@ -12,7 +12,7 @@ Product Manager | Developer | Tech Enthusiast | Finland
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamVahib&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HesamVahib&layout=compact&theme=tokyonight&cache_seconds=7200)
 
 ## 💻 Languages I Work With
 
