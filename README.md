@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hesam
 
-Product Manager | Developer | Tech Enthusiast | Finland  
+Analyst | Developer | Tech Enthusiast | Finland  
 
 💻 **Languages & Tech:** Python | C | C++ | TypeScript | SQL | FastAPI | React | Next.js | Docker | Git | Azure
 
